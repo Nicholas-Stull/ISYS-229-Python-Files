@@ -14,5 +14,6 @@ else:
     print("Not Today")
 sleep(1)
 print("Don't Drink and Drive")
+print("Drive Sober")
 #if 10000 <= number <= 30000:
 #elif int(userAge) 18 >= 21:
