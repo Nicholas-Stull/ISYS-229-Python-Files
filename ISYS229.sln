@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "010923", "ISYS229\010923.pyproj", "{D9B8A274-EF99-49EE-B9F6-9A393EC6F16B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Jan012023", "Jan012023", "{B50CB6A5-1AB8-45E6-9E2F-10C29AC6D2DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,6 +18,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D9B8A274-EF99-49EE-B9F6-9A393EC6F16B} = {B50CB6A5-1AB8-45E6-9E2F-10C29AC6D2DA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2D979FF9-9259-44B1-84E6-2251485FCB7A}
