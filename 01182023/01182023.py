@@ -25,23 +25,23 @@ else:
 
 
 #other stuff
-#notThebucket1 = input("Enter a number: ")
-#notThebucket2 = input("Enter another number: ")
+notThebucket1 = input("Enter a number: ")
+notThebucket2 = input("Enter another number: ")
 
 #print other stuff
-#print("5+10")   #print("5+10")
-#print("5%10")   #print("5%10")
+print("5+10")   #print("5+10")
+print("5%10")   #print("5%10")
 
 #What's up?
 
-#print(type(true))
-#print(true)
-#print(notBucketname.capitalize())
-#awnser = int(notThebucket1) + int(notThebucket2)
-##print ((notBucketname) + (" , your awnser is") + (str(awnser)))
-#if userage  age_president:
-#    print((notBucketname.capitalize())("you can be president"))
-#else:
-#  print((notBucketname.capitalize())("you can't be president"))
+print(type(true))
+print(true)
+print(notBucketname.capitalize())
+awnser = int(notThebucket1) + int(notThebucket2)
+#print ((notBucketname) + (" , your awnser is") + (str(awnser)))
+if userage  age_president:
+    print((notBucketname.capitalize())("you can be president"))
+else:
+  print((notBucketname.capitalize())("you can't be president"))
 
 
