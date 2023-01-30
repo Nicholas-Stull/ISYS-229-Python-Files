@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="nstull"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-25 03:55:58 PM"/>
+        <attribute name="created" value="bnN0dWxsO0RFU0tUT1AtNDVOREI4RTsyMDIzLTAxLTI1OzAzOjQ3OjMxIFBNOzI5NzY="/>
+        <attribute name="edited" value="bnN0dWxsO0RFU0tUT1AtNDVOREI4RTsyMDIzLTAxLTI1OzAzOjU1OjU4IFBNOzE7MzA5Mg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="bill" type="Real" array="False" size=""/>
+            <declare name="tip" type="Real" array="False" size=""/>
+            <declare name="total" type="Real" array="False" size=""/>
+            <output expression="&quot;Please enter the amount of the bill.&quot;" newline="True"/>
+            <input variable="bill"/>
+            <if expression="bill &lt; 25">
+                <then>
+                    <assign variable="tip" expression="bill*0.15"/>
+                </then>
+                <else>
+                    <assign variable="tip" expression="bill*.20"/>
+                </else>
+            </if>
+            <assign variable="total" expression="bill+tip"/>
+            <output expression="&quot;Your total bill including tip is $&quot;&amp;total" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
