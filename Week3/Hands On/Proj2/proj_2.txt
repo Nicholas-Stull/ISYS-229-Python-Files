@@ -1,0 +1,15 @@
+Function Main
+    Declare Real leg0
+    Declare Real leg1
+    Declare Real leg2
+    Declare Real table
+    
+    Output "Insert the millage for the first Leg of the trip"
+    Input leg0
+    Output "Insert the millage for the 2nd Leg of the trip"
+    Input leg1
+    Output "Insert the millage for the third Leg of the trip"
+    Input leg2
+    Assign table = leg0+leg1+leg2
+    Output "You're Millage should be:" &table
+End
