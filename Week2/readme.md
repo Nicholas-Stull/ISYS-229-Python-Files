@@ -2,8 +2,8 @@
 ## Learning Objectives
 1.  Introduction to Python programming
 2.  Sample Coding
-
-
+3.  Hands On Projects
+4.  Notes
 ## Hands On Project
 1.  import date class from datetime module
 2.  create the date object of today's date and legal age requirement variable
@@ -21,5 +21,5 @@
 ## [Hands On Project Solution from Class](HandsOn/Week2_Solution.py)"
 
 ## Notes
-*   [Notes](Notes/Week2.md)
-*   [Notes from Class](Notes/Week2_ClassNotes.ipynb)
+*   [Notes](Notes/Notes.md)
+*   [Notes from Class](Notes/ClassNotes.ipynb)
