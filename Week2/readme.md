@@ -1,4 +1,9 @@
 # Week 2 | Jan 16 - Jan 22 | Scripting
+## Learning Objectives
+1.  Introduction to Python programming
+2.  Sample Coding
+
+
 ## Hands On Project
 1.  import date class from datetime module
 2.  create the date object of today's date and legal age requirement variable
@@ -12,4 +17,9 @@
 9.  Wait until you turn (legal age variable) years old to run for the office of President. 
     *    Which should be in about (function variable) years from (today's date variable)
 
-## ['Hands On Project Solution'](HandsOn/stull_nicholas.py)"
+## [Hands On Project Solution](HandsOn/stull_nicholas.py)"
+## [Hands On Project Solution from Class](HandsOn/Week2_Solution.py)"
+
+## Notes
+*   [Notes](Notes/Week2.md)
+*   [Notes from Class](Notes/Week2_ClassNotes.ipynb)
