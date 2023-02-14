@@ -10,7 +10,7 @@ The [drinking.py](ISYS-229-Python-Files/blob/master/Week1/voting.py) script is a
 
 Both of these scripts are simple examples of Python programs that use conditional statements to make decisions based on user input. They demonstrate the basic syntax for working with `if-else` statements and input functions in Python.
 
-## [Python Code from Class](ISYS-229-Python-Files/blob/master/Week1/Samples/sample1.py) 
+## [Python Code from Class](/Samples/sample1.py) 
 ```python
 userName = input("what is your name? ")
 userAge = input("And how old are you? ")
