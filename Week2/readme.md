@@ -17,8 +17,8 @@
 9.  Wait until you turn (legal age variable) years old to run for the office of President. 
     *    Which should be in about (function variable) years from (today's date variable)
 
-## [Hands On Project Solution](HandsOn/stull_nicholas.py)"
-## [Hands On Project Solution from Class](HandsOn/Week2_Solution.py)"
+* [Hands On Project Solution](HandsOn/stull_nicholas.py)
+* [Hands On Project Solution from Class](HandsOn/Week2_Solution.py)
 
 ## Notes
 *   [Notes](Notes/Notes.md)
