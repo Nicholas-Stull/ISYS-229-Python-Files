@@ -10,7 +10,7 @@ print("Hello " + userName)
 if int(userAge) >= 21:
     print("Lets go drink!")
 elif 18 <= int(userAge) <= 21: 
-    print("Can't Drink today, head Go to Canada")
+    print("Can't Drink today, head over to Canada")
 else:
     print("Not Today")
 sleep(1)
