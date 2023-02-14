@@ -4,15 +4,15 @@
 2.  Define the term “flowchart” as a diagrammatic representation of an algorithm.
 3.  Define a decision table as a grid of rows and columns used to distill a set of complex decisions and actions into a set of rules that can become the statements in a computer program.
 ## Hands On Project
-### Exercise 1
-1.  Exercise 1 Description:
-    1. [Python File](HandsOn/Proj1/Proj1.py)
-    2. [Psudocode](HandsOn/Proj1/Psudocode.md)
+### Exercise 1 - Bill Total
+1.  Exercise 1 Files:
+    1. [Python File](HandsOn/billTotal/billTotal.py)
+    2. [Psudocode](HandsOn/billTotal/Psudocode.md)
 
 ### Exercise 2
 1.  Exercise 2 Files:
-    1. [Python File](HandsOn/Proj2/Proj2.py)
-    2. [Psudocode](HandsOn/Proj2/Psudocode.md)
+    1. [Python File](HandsOn/miles/miles.py)
+    2. [Psudocode](HandsOn/miles/Psudocode.md)
 2.  Exercise 2 Description:
     1.  For your second activity, you will need to use the information that you’ve learned so far and provide the outcomes based on the following listed requirements.
     2.  Develop a program which asks the user to enter three separate whole numbers
@@ -20,8 +20,8 @@
     4.  Once the numbers are added together, there should be an output that states “Based on the information provided, you total is” {variable name}
 ### Exercise 3
 1.  Exercise 3 Files:
-    1. [Python File](HandsOn/Proj3/Proj3.py)
-    2. [Psudocode](HandsOn/Proj3/Psudocode.md)
+    1. [Python File](HandsOn/presidentialAge/presidentialAge.py)
+    2. [Psudocode](HandsOn/presidentialAge/Psudocode.md)
 2.  Exercise 3 Description:
     1.  For your third activity, you will need to use the information that you’ve learned so far and provide the outcomes based on the following listed requirements.
     2.  Develop a program which asks for the user’s first name, last name, and age.
