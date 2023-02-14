@@ -1,5 +1,4 @@
-# Readme Template
-# Week # | Date01 - Date 02 | Topic
+# Week 3 - Flowcharts and Pseudocode
 ## Learning Objectives
 1.  Define the term “pseudocode” as a generalized description of a program
 2.  Define the term “flowchart” as a diagrammatic representation of an algorithm.

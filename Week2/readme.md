@@ -1,4 +1,4 @@
-# Week 2 | Jan 16 - Jan 22 | Scripting
+# Week 2 - Python Programming Basics
 ## Learning Objectives
 1.  Introduction to Python programming
 2.  Sample Coding

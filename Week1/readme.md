@@ -1,4 +1,4 @@
-# Week 1 | Jan 9 - Jan 15 | Course Introductions
+# Week 1 - Introduction to Python Programming
 ## Learning Objectives
 1.	Introduction of the course
 2.	Classroom Management
