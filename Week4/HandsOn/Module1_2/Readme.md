@@ -1,4 +1,4 @@
-# Hands On Disription
+# Hands On Description
 ### Develop a script which asks the users for the following
 1.  First Name
 2.  Last Name
