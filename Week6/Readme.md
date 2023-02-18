@@ -11,8 +11,8 @@
 
 
 ## Examples from Class
-[sample1.py](samples/sample1.py)
-[sample2.py](samples/sample2.py)
+1. [sample1.py](samples/sample1.py)
+2. [sample2.py](samples/sample2.py)
 
 ## Notes
 *   [Notes](Notes/Notes.md)
