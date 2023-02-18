@@ -7,7 +7,8 @@
 5. Implement breaking out of loops
 ## Homework
 1. [Labs](Labs/Readme.md)
-2. [Hands On Project Solution](HandsOn/Week6-HOA.md)
+2. [Hands On Project Solution](HandsOn/Readme.md)
+
 
 ## Examples from Class
 [sample1.py](samples/sample1.py)
