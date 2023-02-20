@@ -31,3 +31,7 @@
 - Use looping structures in your Python programs
 - Implement branching within looping structures such as for and range
 - Implement breaking out of loops
+# [Week 7 | Feb 20 - Feb 26 | Module 4](Week7/Readme.md)
+- Describe the various function types in Python
+- Define global and local variables
+- Define a function that takes in a variable number of arguments
