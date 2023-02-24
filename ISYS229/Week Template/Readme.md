@@ -9,5 +9,5 @@
 [sample1.py](samples/sample1.py)
 
 ## Notes
-*   [Notes](Notes/Notes.md)
+*   [Notes](ISYS229/Week%20Template/Notes/Notes.md)
 *   [Notes from Class](Notes/ClassNotes.ipynb)
