@@ -9,7 +9,7 @@ In module 6, you’ll learn how a document is printed to a local and shared prin
 5. Manage print jobs
 6. Troubleshoot common printing problems
 ## Homework
-1. [Labs](Labs/Readme.md)
+1. [Labs](ISYS281/Week7/Labs/Readme.md)
 2. [Hands On Project Solution](HandsOn/y)"
 
 ## Examples from Class

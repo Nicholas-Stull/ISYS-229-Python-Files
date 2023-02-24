@@ -13,7 +13,7 @@
 2. [Module 1.2](HandsOn/Module1_2/Readme.md)
 
 ## Homework - Online Labs
-1. [Module 1.2](Labs/Readme.md)
+1. [Module 1.2](ISYS229/Week4/Labs/Readme.md)
 ## Examples from Class
 [age_project.py](Notes/age_project.py)
 [Calculate_Year.py](Notes/Calculate_Year.py)

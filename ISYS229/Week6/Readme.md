@@ -6,7 +6,7 @@
 4. Implement branching within looping structures such as for and range
 5. Implement breaking out of loops
 ## Homework
-1. [Labs](Labs/Readme.md)
+1. [Labs](ISYS229/Week6/Labs/Readme.md)
 2. [Hands On Project Solution](HandsOn/Readme.md)
 
 

@@ -10,7 +10,7 @@
 ## Hands On Project
 1. [Module 2](HandsOn/Readme.md)
 ## Homework
-1. [Labs](Labs/Readme.md)
+1. [Labs](ISYS229/Week5/Labs/Readme.md)
 2. [Hands On Project](HandsOn/Readme.md)"
 
 ## Notes

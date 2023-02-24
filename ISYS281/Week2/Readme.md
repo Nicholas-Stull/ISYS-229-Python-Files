@@ -2,7 +2,7 @@
 ## Learning Objectives
 1.  Objective 1
 ## Homework
-1. [Labs](Labs/Readme.md)
+1. [Labs](ISYS281/Week2/Labs/Readme.md)
 2. [Hands On Project Solution](HandsOn/y)"
 
 ## Examples from Class
