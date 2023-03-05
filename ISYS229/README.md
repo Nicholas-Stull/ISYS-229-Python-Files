@@ -35,3 +35,9 @@
 - Describe the various function types in Python
 - Define global and local variables
 - Define a function that takes in a variable number of arguments
+# [Week 8 | Feb 27 - Mar 05 | Module 5](Week8/Readme.md)
+-   Create and access lists in Python
+-   Describe the various methods that are available in lists, and use them in your Python programs
+-   Create and access tuples in Python
+-   Identify the differences between tuples and lists
+-   Implement the various built-in methods that are available with tuples
