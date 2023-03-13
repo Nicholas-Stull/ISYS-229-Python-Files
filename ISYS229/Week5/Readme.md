@@ -8,10 +8,10 @@
 5.  Explain lists and perform simple operations on them
 6.  Use Boolean expressions and Boolean operators
 ## Hands On Project
-1. [Module 2](HandsOn/Readme.md)
+1. [Module 2](ISYS229/Week5/HandsOn/Readme.md)
 ## Homework
 1. [Labs](ISYS229/Week5/Labs/Readme.md)
-2. [Hands On Project](HandsOn/Readme.md)"
+2. [Hands On Project](ISYS229/Week5/HandsOn/Readme.md)"
 
 ## Notes
 *   [Notes from Class](Notes/Week5_ClassNotes.ipynb)

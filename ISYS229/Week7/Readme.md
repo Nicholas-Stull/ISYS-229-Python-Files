@@ -9,7 +9,7 @@
 ## Homework
 
 1. [Labs](ISYS229/Week4/Labs/Readme.md)
-2. [Hands On Project Solution](HandsOn/Readme.md)
+2. [Hands On Project Solution](ISYS229/Week7/HandsON/Readme.md)
 
 ## Examples from Class
 

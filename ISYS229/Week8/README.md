@@ -11,7 +11,7 @@
 ## Homework
 
 1. [Labs](Labs/Lab_Notes.ipynb)
-2. [Hands On Project Solution](HandsOn/Readme.md)
+2. [Hands On Project Solution](ISYS229/Week8/HandsOn/README.md)
 
 
 ## Notes

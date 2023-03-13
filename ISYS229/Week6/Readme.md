@@ -7,7 +7,7 @@
 5. Implement breaking out of loops
 ## Homework
 1. [Labs](ISYS229/Week6/Labs/Readme.md)
-2. [Hands On Project Solution](HandsOn/Readme.md)
+2. [Hands On Project Solution](ISYS229/Week6/HandsOn/Readme.md)
 
 
 ## Examples from Class
