@@ -1,21 +1,17 @@
-# Week 9 | Mar 06 - Mar 12 | Module 6
+# Week 10 | Mar 13 - Mar 19 | Module 7
+
 
 ## Learning Objectives
 
-1. Create and access lists in Python
-2.  Create and use dictionaries
-3. Use methods and attributes associated with dictionaries
-4. Describe and use ordered dictionaries to store and retrieve data in a predictable order
-5. Create sets, as well as add, read, and remove data from them
-6. Describe the attributes defined on set objects
-7. Describe frozen sets
+1. Explain different OOP concepts and the importance of OOP
+2.  Instantiate a class
+3. Describe how to define instance methods and pass arguments to them
+4. Declare class attributes and class methods
+5. Describe how to override methods
+6. Implement multiple inheritance
 
-## Homework
+## Links
 
 1. [Labs](Labs/Lab_Notes.ipynb`)
-2. [Hands On Project Solution](ISYS229/Week9/HandsOn/Readme.md)
-
-
-## Notes
-
-* [Notes](Notes/Week9_Notes.md)
+2. [Hands On Project Solution](ISYS229/Week10/HandsOn/Readme.md)
+3. [Notes](Notes/Week10_Notes.md)

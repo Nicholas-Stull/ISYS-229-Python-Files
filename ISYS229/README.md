@@ -1,4 +1,4 @@
-# ISYS 229
+# ISYS 229 - Scripting Languages
 
 ![image with programing logos](Resources/src/header.png)
 
@@ -55,3 +55,11 @@
 -   Create sets, as well as add, read, and remove data from them
 -   Describe the attributes defined on set objects
 -   Describe frozen sets
+
+# [Week 10 | Mar 13 - Mar 19 | Module 7](Week10/Readme.md)
+-   Explain different OOP concepts and the importance of OOP
+-   Instantiate a class
+-   Describe how to define instance methods and pass arguments to them
+-   Declare class attributes and class methods
+-   Describe how to override methods
+-   Implement multiple inheritance
