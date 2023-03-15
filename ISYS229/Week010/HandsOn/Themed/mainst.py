@@ -1,11 +1,3 @@
-"""
-Example script for testing the Azure ttk theme
-Author: rdbende
-License: MIT license
-Source: https://github.com/rdbende/ttk-widget-factory
-"""
-
-
 import tkinter as tk
 from tkinter import ttk
 
@@ -28,40 +20,47 @@ class InternshipChecker(ttk.Frame, object):
 
         # First Name Label
         self.fname_label = ttk.Label(self.widgets_frame, text="First Name:",)
-        self.fname_label.grid(row=0, column=0, padx=5, pady=(0, 10), sticky="ew")
+        self.fname_label.grid(row=0, column=0, padx=5,
+                              pady=(0, 10), sticky="ew")
         # First Name Entry
         self.fname = ttk.Entry(self.widgets_frame)
         self.fname.grid(row=0, column=1, padx=5, pady=(0, 10), sticky="ew")
-#--------------------------------------------------------------------
+# --------------------------------------------------------------------
         # Last Name Label
         self.lname_label = ttk.Label(self.widgets_frame, text="Last Name:")
-        self.lname_label.grid(row=1, column=0, padx=5, pady=(0, 10), sticky="ew")
+        self.lname_label.grid(row=1, column=0, padx=5,
+                              pady=(0, 10), sticky="ew")
         # Last Name Entry
         self.lname = ttk.Entry(self.widgets_frame)
         self.lname.grid(row=1, column=1, padx=5, pady=(0, 10), sticky="ew")
-#--------------------------------------------------------------------
+# --------------------------------------------------------------------
         # Major Label
         self.major_label = ttk.Label(self.widgets_frame, text="Major:")
-        self.major_label.grid(row=2, column=0, padx=5, pady=(0, 10), sticky="ew")
+        self.major_label.grid(row=2, column=0, padx=5,
+                              pady=(0, 10), sticky="ew")
         # Major Entry
         self.major = ttk.Entry(self.widgets_frame)
         self.major.grid(row=2, column=1, padx=5, pady=(0, 10), sticky="ew")
-#--------------------------------------------------------------------
+# --------------------------------------------------------------------
         # Credits Label
         self.credits_label = ttk.Label(self.widgets_frame, text="Credits:")
-        self.credits_label.grid(row=3, column=0, padx=5, pady=(0, 10), sticky="ew")
+        self.credits_label.grid(row=3, column=0, padx=5,
+                                pady=(0, 10), sticky="ew")
         # Credits Entry
         self.credits = ttk.Entry(self.widgets_frame)
         self.credits.grid(row=3, column=1, padx=5, pady=(0, 10), sticky="ew")
-#--------------------------------------------------------------------
+# --------------------------------------------------------------------
         # Button
         self.button = ttk.Button(
             self.widgets_frame, text="Check Eligibility", command=self.check_eligibility)
-        self.button.grid(row=4, column=0, columnspan=2, padx=5, pady=(0, 10), sticky="ew")
-#--------------------------------------------------------------------
+        self.button.grid(row=4, column=0, columnspan=2,
+                         padx=5, pady=(0, 10), sticky="ew")
+# --------------------------------------------------------------------
         # label
         self.results = ttk.Label(wraplength=340)
         self.results.grid(row=4, column=0, padx=5, pady=(0, 10), sticky="ew")
+# --------------------------------------------------------------------
+
     def check_eligibility(self):
         try:
             # Retrieve values from entries
@@ -83,10 +82,11 @@ class InternshipChecker(ttk.Frame, object):
             # Handle ValueError if credits is not an integer
             self.results.config(text="Credits must be an integer.")
 
+
 if __name__ == "__main__":
     root = tk.Tk()
     root.title("Internship Checker")
-    #root.geometry("400x400")
+    # root.geometry("400x400")
 
     # Simply set the theme
     root.tk.call("source", "azure.tcl")
@@ -96,8 +96,7 @@ if __name__ == "__main__":
     app.grid(row=0, column=0, sticky="nsew")
 
     # Set a minsize for the window, and place it in the middle
-    
-    
+
     root.update()
     root.minsize(root.winfo_width(), root.winfo_height())
     x_cordinate = int((root.winfo_screenwidth() / 2) -
