@@ -64,8 +64,8 @@ class InternshipChecker(ttk.Frame, object):
     def check_eligibility(self):
         try:
             # Retrieve values from entries
-            first_name = self.fname.get()
-            last_name = self.lname.get()
+            first_name = self.fname.get().upper
+            last_name = self.lname.get().upper
             major = self.major.get()
             credits = int(self.credits.get())
 
@@ -89,8 +89,8 @@ if __name__ == "__main__":
     # root.geometry("400x400")
 
     # Simply set the theme
-    root.tk.call("source", "azure.tcl")
-    root.tk.call("set_theme", "dark")
+    #root.tk.call("source", "azure.tcl")
+    #root.tk.call("set_theme", "dark")
 
     app = InternshipChecker(root)
     app.grid(row=0, column=0, sticky="nsew")
