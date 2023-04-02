@@ -68,9 +68,13 @@ class InternshipChecker(ttk.Frame, object):
             major = self.major.get()
             credits = int(self.credits.get())
 
-             # label
+            # label
             self.results = ttk.Label(wraplength=340)
-            self.results.grid(row=5, column=0, padx=5, pady=(0, 10), sticky="ew")
+            self.results.grid(row=5, column=0, padx=5,
+                              pady=(0, 10), sticky="ew")
+
+            # Clear the results label before displaying the updated text
+            self.results.config(text="")
 
             # Check eligibility based on criteria
             if major.lower() == "it":
