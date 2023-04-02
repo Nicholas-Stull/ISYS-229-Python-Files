@@ -70,3 +70,8 @@
 - Describe the file object in Python
 - Read and write to Python files
 - Work with structured data in Python files
+
+# [Week 12 | Mar 27 - Apr 02 | Module 9](Week012/Readme.md)
+- Describe what errors and exceptions are
+- Handle errors and exceptions when they occur
+- Define and use your own custom exceptions
