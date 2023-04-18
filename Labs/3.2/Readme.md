@@ -1,3 +1,0 @@
-# Week 6 Online Labs
-1. [Module 3.2 : If Statemtent](Labs/3_2.py)
-    1. 3.2 Lab is similar to the [sample1.py sample script from class](samples/sample1.py). It uses the if statement to determine if an awsner is true or false. If neither true or false is entered, the program will ask the user to enter either true or false. The sample uses the same logic, rather with yes or no. To get around the trouble of cases, the scipt takes the users input and converts it to upper case, that way it is accepted regardless of case.
