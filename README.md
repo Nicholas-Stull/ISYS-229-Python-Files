@@ -1,27 +1,77 @@
-# CIT Notes
+# ISYS 229 - Scripting Languages
 
-Welcome to the CIT Notes repository! Here you will find notes for the following courses:
+![image with programing logos](Resources/src/header.png)
 
-- [ISYS 229 - Scripting Scripting](./ISYS229/)
-- [ISYS 281 - Installing Windows Server](./ISYS281/)
-- [ISYS 282 - Linux](./ISYS282/)
+# [Week 1 | Jan 9 - Jan 15 | Course Introductions](Week001/Readme.md)
+# [Week 2 | Jan 16 - Jan 22 | Scripting](Week002/Readme.md)
+- Introduction to Python programming
+- Sample Coding
 
-## ISYS 229 - Python Scripting
+# [Week 3 | Jan 23 - Jan 29 | Flowcharting](Week003/Readme.md)
+- Define the term “pseudocode” as a generalized description of a program
+- Define the term “flowchart” as a diagrammatic representation of an algorithm.
+- Define a decision table as a grid of rows and columns used to distill a set of complex decisions and actions into a set of rules that can become the statements in computer program.
 
-This course covers the Python scripting language and its applications. The notes for this course can be found [here](./ISYS229/README.md).
+# [Week 4 | Jan 30 - Feb 02 | Module 1](Week004/Readme.md)
+- Use the Python interactive shell to write simple programs
+- Write and run simple Python scripts
+- Write and run dynamic scripts that take arguments from the command line
+- Use variables and describe the different types of values that variables can be assigned
+- Get user input from the keyboard for your Python programs
+- Explain the importance of comments and write them in Python
+- Explain the importance of whitespace and indentation in Python
 
-## ISYS 281 - Installing Windows Server
+# [Week 5 | Feb 06 - Feb 12 | Module 2](Week005/Readme.md)
+- Explain the different numerical data types
+- Use operators on numerical data types
+- Explain strings and implement string operations, such as indexing, slicing, and string formatting
+- Describe escape sequences
+- Explain lists and perform simple operations on them
+- Use Boolean expressions and Boolean operators
 
-This course covers the installation and configuration of Windows Server. The notes for this course can be found [here](./ISYS281/README.md).
+# [Week 6 | Feb 13 - Feb 19 | Module 3](Week006/Readme.md)
+- Describe the different control statements in Python
+- Control program execution flow using control statements such as if and while
+- Use looping structures in your Python programs
+- Implement branching within looping structures such as for and range
+- Implement breaking out of loops
 
-## ISYS 282 - Linux
+# [Week 7 | Feb 20 - Feb 26 | Module 4](Week007/Readme.md)
+- Describe the various function types in Python
+- Define global and local variables
+- Define a function that takes in a variable number of arguments
 
-This course covers the installation and configuration of Linux. 
+# [Week 8 | Feb 27 - Mar 05 | Module 5](Week008/Readme.md)
+-   Create and access lists in Python
+-   Describe the various methods that are available in lists, and use them in your Python programs
+-   Create and access tuples in Python
+-   Identify the differences between tuples and lists
+-   Implement the various built-in methods that are available with tuples
 
-## Contributing
+# [Week 9 | Mar 06 - Mar 12 | Module 6](Week009/Readme.md)
+-   Create and use dictionaries
+-   Use methods and attributes associated with dictionaries
+-   Describe and use ordered dictionaries to store and retrieve data in a predictable order
+-   Create sets, as well as add, read, and remove data from them
+-   Describe the attributes defined on set objects
+-   Describe frozen sets
 
-If you would like to contribute to this repository, please fork the repository, make your changes, and submit a pull request. 
+# [Week 10 | Mar 13 - Mar 19 | Module 7](Week010/Readme.md)
+-   Explain different OOP concepts and the importance of OOP
+-   Instantiate a class
+-   Describe how to define instance methods and pass arguments to them
+-   Declare class attributes and class methods
+-   Describe how to override methods
+-   Implement multiple inheritance
 
-## License
+# [Week 11 | Mar 20 - Mar 26 | Module 8](Week011/Readme.md)
+- Describe what Python modules are and create your own
+- Work with the built-in Python modules
+- Describe the file object in Python
+- Read and write to Python files
+- Work with structured data in Python files
 
-This repository is licensed under the [MIT License](./LICENSE).
+# [Week 12 | Mar 27 - Apr 02 | Module 9](Week012/Readme.md)
+- Describe what errors and exceptions are
+- Handle errors and exceptions when they occur
+- Define and use your own custom exceptions
